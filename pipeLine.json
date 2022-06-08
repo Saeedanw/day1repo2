@@ -1,0 +1,4 @@
+{
+	"git-repo" : "https://github.com/Skid4343/testjenkins.git",
+	"smoke-suite" : "mvn clean verify"
+}
